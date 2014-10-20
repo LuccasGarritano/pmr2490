@@ -2,8 +2,8 @@
   <hr />
   <div class="container">
     <p style="text-align: center;">
-      2014, PMR2490 - Sistemas de informação - Turma 03<br />
-      Gerenciador de eventos da Escola Politécnica da Universidade de São Paulo
+      2014, PMR2490 - Sistemas de informaÃ§Ã£o - Turma 03<br />
+      Gerenciador de Eventos da Escola PolitÃ©cnica da Universidade de SÃ£o Paulo
     </p>
   </div>
 </div>
